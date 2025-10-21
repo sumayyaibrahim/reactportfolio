@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+@import "tailwindcss";
+
+  
+body {
+  font-family: 'libertinus Sans', sans-serif;
+  background-color: black;
+  overflow-x: hidden;
+  color: white;
+}
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-20px); }
+}
+@keyframes rotateicon {
+  0%,100%{
+    transform:rotate(0deg)
+  }
+  50%{
+    transform:rotate(360deg)
+  }
+  
+}

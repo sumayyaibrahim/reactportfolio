@@ -67,7 +67,7 @@ function Contact() {
      
       <div className='  '>
         
-        <img className='w-15 h-18 rounded-full mr-10' src="/public/girlimg.png"></img>
+        <img className='w-15 h-18 rounded-full mr-10' src="/girlimg.png"></img>
       </div>
      <div className="flex justify-center gap-6 text-white text-xl mt-6">
      

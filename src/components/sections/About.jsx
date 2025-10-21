@@ -68,7 +68,7 @@ function About() {
            <div className='pt-15 w-full hidden md:flex justify-center '>
             <div class="  bg-gradient-to-r from-purple-400 to violet-500  w-60 h-67 rounded-full p-1  ">
     <img 
-    src="/public/sumi.jpg"
+    src="/sumi.jpg"
     alt="Profile"
     class="w-full h-full rounded-full object-cover shadow-lg animate-[float_4s_ease-in-out_infinite]"
   />

@@ -7,7 +7,7 @@ const projects = [
     tech: ["React", "framer", "tailwind"],
     github: "https://github.com/username/portfolio",
     live: "https://lnkd.in/e8G9Tx3P]",
-    image: "/public/portfolio.png",
+    image: "/portfolio.png",
   },
   {
     title: "SUN APP(project management)",
@@ -15,14 +15,14 @@ const projects = [
     tech: ["React", "tailwind", "React Router","Axios","JSON Server"],
     github: "https://github.com/sumayyaibrahim/solarprojects",
     live: "https://solarprojectsfrontend.vercel.app/",
-    image: "/public/sunapp.png",
+    image: "/sunapp.png",
   },{
     title: "STUD HUB(LMS platform)",
     
     tech: ["React", "Bootstrap", "React Router"],
     github: "https://github.com/sumayyaibrahim/learning-app",
     live: "https://learning-app-orcin-alpha.vercel.app/",
-    image: "/public/studhub.png",
+    image: "/studhub.png",
   },{
     title: "Country details search bar",
     description:
@@ -30,7 +30,7 @@ const projects = [
     tech: ["HTML", "Tailwind", "Async await"],
     github: "https://github.com/sumayyaibrahim/asyncawait",
     live: "https://asyncawait.vercel.app/",
-    image: "/public/country.png",
+    image: "/country.png",
   },{
     title: "Flower app(website of a flower shop)",
     description:
@@ -38,7 +38,7 @@ const projects = [
     tech: ["HTML",  "CSS"],
     github: "https://github.com/sumayyaibrahim/flowerapp",
     live: "https://sumayyaibrahim.github.io/flowerapp/",
-    image: "/public/getflower.png",
+    image: "/getflower.png",
   },
 ];
 

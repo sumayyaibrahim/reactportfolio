@@ -22,7 +22,7 @@ function Navbar() {
   return (
     <div className=' fixed w-full flex justify-between p-6 bg-white/2 backdrop-blur-sm  z-50'>
       <div className=' '>
-        <img className=' animate-[rotateicon_10s_ease-in-out_infinite] hidden  md:flex w-17 h-17 rounded-full' src="/public/girlimg.png"></img>
+        <img className=' animate-[rotateicon_10s_ease-in-out_infinite] hidden  md:flex w-17 h-17 rounded-full' src="/girlimg.png"></img>
       </div>
         
        <div className='hidden w-full justify-center md:flex text-violet-400'>
